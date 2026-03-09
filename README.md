@@ -35,6 +35,3 @@ cd house-price-prediction
 pip install -r requirements.txt
 jupyter notebook house_price_prediction.ipynb
 ```
-├── Dragon.joblib                  # Saved model
-├── requirements.txt
-└── README.md
