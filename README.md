@@ -37,3 +37,9 @@ jupyter notebook house_price_prediction.ipynb
 ```
 
 ## 📁 Project Structure
+house-price-prediction/
+├── house_price_prediction.ipynb   # Main notebook
+├── data.csv                       # Dataset
+├── Dragon.joblib                  # Saved model
+├── requirements.txt
+└── README.md
