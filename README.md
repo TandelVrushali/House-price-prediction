@@ -1,10 +1,10 @@
 # 🏠 House Price Prediction
 
 Predicting Boston housing prices using supervised machine learning.  
-📖 [Read the full tutorial on Medium](https://vrushalitandel1.medium.com/housing-price-prediction-step-by-step-implementation-of-machine-learning-project-9939e6c7c59e)
+📖 [Read the full tutorial on Medium](https://medium.com/@tandelvrushali1607/house-price-prediction-step-by-step-37bc730ac0f5)
 
 ## 📊 Dataset
-- Source: UCI Boston Housing Dataset
+- Source: Housing Dataset
 - 506 records, 14 features (crime rate, rooms, tax rate, etc.)
 
 ## 🔬 Approach
@@ -15,11 +15,11 @@ Predicting Boston housing prices using supervised machine learning.
 
 | Model | Mean RMSE | Std Dev |
 |-------|-----------|---------|
-| Decision Tree | 4.19 | 0.85 |
-| Linear Regression | 4.22 | 0.75 |
-| **Random Forest** ✅ | **3.49** | **0.76** |
+| Decision Tree | 3.19 | 0.09 |
+| Linear Regression | 4.22 | 0.08 |
+| **Random Forest** ✅ | **1.28** | **0.03** |
 
-5. **Evaluation** — K-Fold Cross Validation (N=10), final test RMSE: **3.22**
+5. **Evaluation** — K-Fold Cross Validation (N=10), final test RMSE: **0.92**
 
 ## 🛠️ Tech Stack
 - Python 3
