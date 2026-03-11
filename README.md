@@ -15,11 +15,11 @@ Predicting Boston housing prices using supervised machine learning.
 
 | Model | Mean RMSE | Std Dev |
 |-------|-----------|---------|
-| Decision Tree | 3.19 | 0.09 |
-| Linear Regression | 4.22 | 0.08 |
-| **Random Forest** ✅ | **1.28** | **0.03** |
+| Decision Tree | 4.19 | 0.85 |
+| Linear Regression | 4.22 | 0.76 |
+| **Random Forest** ✅ | **3.49** | **0.75** |
 
-5. **Evaluation** — K-Fold Cross Validation (N=10), final test RMSE: **0.92**
+5. **Evaluation** — K-Fold Cross Validation (N=10), final test RMSE: **3.49**
 
 ## 🛠️ Tech Stack
 - Python 3
